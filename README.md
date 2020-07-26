@@ -1,2 +1,2 @@
 # websocket-chat
-It is a simple chat, wrired with using websockets and js.
+It is a simple chat, written with using websockets and js.
